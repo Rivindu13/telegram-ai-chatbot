@@ -28,8 +28,6 @@ Telegram Send Message
 
 # 📸 Screenshot
 
-Add your workflow screenshot here.
-
 <img width="1240" height="545" alt="image" src="https://github.com/user-attachments/assets/9ec05a95-9af0-44b8-b65a-ac80cc3573fe" />
 
 ---
